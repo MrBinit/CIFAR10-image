@@ -19,6 +19,10 @@ The CIFAR-10 dataset is a benchmark dataset used to evaluate the performance of 
 - Ship
 - Truck
 
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+
+
 ## Project Goals
 
 The primary goal of this project is to:
